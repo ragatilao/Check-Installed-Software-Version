@@ -16,9 +16,9 @@ Since we have several environments (Development, Test, Stage and Production) it 
 
 This is not only designed for SQL Server Management Studio, it can also be used to check a specific software that are installed in multiple servers. 
 
-## How to use this powershell script
+## How to use this PowerShell script
 
-* Run the powershell script. A window console will pop-up.
+* Run the PowerShell script. A window console will pop-up.
 * Choose an option to enter a server name or use a server list file.
 * Default value for software to be checked is SQL Server Management Studio, you can change this with other software name that you want to check.
 * Click the Run Search button
