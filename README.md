@@ -6,3 +6,5 @@ We have also built several database servers for the past year. Every time we bui
 After a year, our servers have different versions of SQL Server Management Studio on them. We did not do a good job of keeping and upgrading our SSMS on the servers.
 
 Since we have several environments (Development, Test, Stage and Production) it was hard to keep up with the version.
+
+
