@@ -1,4 +1,4 @@
-# Powershell-Check-Installed-Software-Version
+# Check-Installed-Software-Version
 <a name="header1"></a>
 
 Navigation
